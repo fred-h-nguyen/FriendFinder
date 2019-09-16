@@ -12,6 +12,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+https://sleepy-temple-95264.herokuapp.com deployed website.
+
 The website you need to find a friend highly compatible with you. Based on the algorithm we use it is more likely to find a friend with similar thoughts.
 
 ### Built With
@@ -28,7 +30,7 @@ The website you need to find a friend highly compatible with you. Based on the a
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The user will answer 20 questions using the website which will compare and contrast with other users in our database. The server will then add the user to the database as well as presenting to the user a Friend with similar answers to the user.
+The user will answer 10 questions using the website which will compare and contrast with other users in our database. The server will then add the user to the database as well as presenting to the user a Friend with similar answers to the user.
 
 
 
