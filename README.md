@@ -6,7 +6,6 @@
   * [Built With](#built-with)
 * [Usage](#usage)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
