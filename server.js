@@ -2,7 +2,7 @@
 var express = require('express');
 var path = require('path');
 var html = require('./app/routing/htmlRoutes')
-
+var api = require('./app/routing/apiRoutes')
 // express setup
 
 var app = express();
@@ -18,4 +18,6 @@ app.use(express.json());
 app.listen(PORT, function(){
     console.log(`App listening on PORT${PORT}`)
 })
+
 html(app,path);
+api(app);
